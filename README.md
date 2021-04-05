@@ -25,6 +25,6 @@ The project is licensed under the MIT license for software/code related content 
 Repo maintained by [sktomor](https://github.com/sktomor). 
 
 -------------
-TL;DR <br> Get started with our [first zine](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/zines/zine-universal-acceptance-1.pdf).  
+TL;DR <br> Get started with our [first zine](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/zines/zine-universal-acceptance-1.pdf). [A4 version](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/zines/zine-universal-acceptance-A4-1.pdf) available to print.  
 
 -------------
