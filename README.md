@@ -14,17 +14,17 @@ Universal Acceptance (UA) helps to remove technical barriers for users, meaning 
 According to the Universal Acceptance Steering Group (UASG) country readiness report (2020), the goal of UA is for these email addresses 测试1@server.technology and السعودية.رسيل@دون to have the same rate of acceptance as user@test.org. However, many organisations and businesses have not yet updated their systems to make this possible. In 2020, 9.7% of email servers were potentially configured to support email addresses in local languages and scripts. Chinese and Arabic are among the top spoken languages globally, yet only 11% of the top 1,000 websites globally support email addresses in these languages.
 
 ## Resources and how you can contribute
-You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations interested in UA. We are currently collected them in this [resources folder](). 
+You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations interested in UA. We are currently collected them in this [resources folder](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main/resources). More information about how to contribute is in this [CONTRIBUTING.md](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main) file.  
 
 Other resources:
-* [Project Code of Conduct]()
+* [Code of Conduct](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/CODE_OF_CONDUCT.md)
 
-The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here]().
+The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/LICENSE).
 
 ## Contacts
 Repo maintained by [sktomor](https://github.com/sktomor). 
 
 -------------
-TL;DR <br> Get started with our [first zine](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/zines/zine-universal-acceptance-1.pdf).  
+TL;DR <br> Get started with our [first zine](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/zines/zine-universal-acceptance-1.pdf). [A4 version](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/zines/zine-universal-acceptance-A4-1.pdf) available to print.  
 
 -------------
