@@ -19,7 +19,7 @@ You are invited to contribute to this collection of toolkit, reports, papers and
 Other resources:
 * [Code of Conduct](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/CODE_OF_CONDUCT.md)
 
-The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here]().
+The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/LICENSE).
 
 ## Contacts
 Repo maintained by [sktomor](https://github.com/sktomor). 
