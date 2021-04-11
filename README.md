@@ -22,7 +22,7 @@ Other resources:
 The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/LICENSE).
 
 ## Contacts
-Repo maintained by [sktomor](https://github.com/sktomor). 
+Repo maintained by [sktomor](https://github.com/sktomor) and [lillianac](https://github.com/lillianac). 
 
 -------------
 TL;DR <br> Get started with our [first zine](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/zines/zine-universal-acceptance-1.pdf) on Universal Acceptance. [A4 version](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/zines/zine-universal-acceptance-A4-1.pdf) available to print.  
