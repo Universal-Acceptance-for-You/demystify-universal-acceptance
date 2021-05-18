@@ -29,13 +29,13 @@ The project is licensed under the MIT license for software/code related content 
 We believe that Universal Acceptance implementation requires a multistakeholder effort. We are grateful to our partners and supporters.<br><br>
 **Organisers**<br>
 <p><html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/access-plus-logo-2.png"
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/access-plus-logo-2.png"
     width=80
   </img>
 </html>
    &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ISOC-UGANDA-Logo-Dark-Blue-RGB.png"
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/ISOC-UGANDA-Logo-Dark-Blue-RGB.png"
     width=220
   </img>
 </html>  
@@ -43,21 +43,21 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
 
 **Partners and Supporters**<br>
  <p><html>
- <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/MoICT-logo_bigger-1.png"
+ <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/MoICT-logo_bigger-1.png"
     width=300
       </img>
   </html>
   &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/NITA-U-logo.png" width=100 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/NITA-U-logo.png" width=100 </img>
 </html>
    &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ICANN_logo.svg.png" width=50 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/ICANN_logo.svg.png" width=50 </img>
 </html>
    &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/Mozilla-logo.png" width=100 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/Mozilla-logo.png" width=100 </img>
 </html>
 
 ## About Us and Contacts
