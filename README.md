@@ -17,7 +17,7 @@ According to the Universal Acceptance Steering Group (UASG) country readiness re
 You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations interested in UA. We are currently collected them in this [resources folder](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main/resources). More information about how to contribute is in this [CONTRIBUTING.md](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/CONTRIBUTING.md) file.  
 
 Other resources:
-* [Project Tasks](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1?add_cards_query=is%3Aopen)
+* [Project Tasks](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/projects/1)
 * [Activities and Events](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main/activities-and-events)
   * We are planing a [UA webinar series 2021](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/activities-and-events/UA-webinar-series-2021.md) titled "Demystifying Universal Acceptance: What does a multilingual Internet look like?" 
 * [Code of Conduct](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/CODE_OF_CONDUCT.md)
