@@ -21,7 +21,7 @@ Other resources:
 * [Activities and Events](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main/activities-and-events)
   * We are planing a [UA webinar series 2021](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/activities-and-events/UA-webinar-series-2021.md) titled "Demystifying Universal Acceptance: What does a multilingual Internet look like?" 
 * [Code of Conduct](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/CODE_OF_CONDUCT.md)
-* * [Project maintenance](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/MAINTENANCE.md)
+* [Project maintenance](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/MAINTENANCE.md)
 
 The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/LICENSE).
 
