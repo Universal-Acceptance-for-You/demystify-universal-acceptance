@@ -34,7 +34,13 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
   </img>
 </html>
    &nbsp;&nbsp;&nbsp;
-  <html>
+ <html>
+   <img src=" https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/Brand360BrandLogo.jpg"
+    width=220
+  </img>
+</html>  
+   &nbsp;&nbsp;&nbsp;
+ <html>
    <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/ISOC-UGANDA-Logo-Dark-Blue-RGB.png"
     width=220
   </img>
