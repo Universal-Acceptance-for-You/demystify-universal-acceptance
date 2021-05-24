@@ -14,14 +14,14 @@ Universal Acceptance (UA) helps to remove technical barriers for users, meaning 
 According to the Universal Acceptance Steering Group (UASG) country readiness report (2020), the goal of UA is for these email addresses 测试1@server.technology and السعودية.رسيل@دون to have the same rate of acceptance as user@test.org. However, many organisations and businesses have not yet updated their systems to make this possible. In 2020, 9.7% of email servers were potentially configured to support email addresses in local languages and scripts. Chinese and Arabic are among the top spoken languages globally, yet only 11% of the top 1,000 websites globally support email addresses in these languages.
 
 ## Resources and how you can contribute
-You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations interested in UA. We are currently collected them in this [resources folder](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main/resources). More information about how to contribute is in this [CONTRIBUTING.md](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main) file.  
+You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations interested in UA. We are currently collected them in this [resources folder](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main/resources). More information about how to contribute is in this [CONTRIBUTING.md](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/CONTRIBUTING.md) file.  
 
 Other resources:
-* [Project Tasks](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1?add_cards_query=is%3Aopen)
+* [Project Tasks](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/projects/1)
 * [Activities and Events](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/tree/main/activities-and-events)
   * We are planing a [UA webinar series 2021](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/activities-and-events/UA-webinar-series-2021.md) titled "Demystifying Universal Acceptance: What does a multilingual Internet look like?" 
 * [Code of Conduct](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/CODE_OF_CONDUCT.md)
-* * [Project maintenance](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/MAINTENANCE.md)
+* [Project maintenance](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/MAINTENANCE.md)
 
 The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/LICENSE).
 
@@ -29,13 +29,13 @@ The project is licensed under the MIT license for software/code related content 
 We believe that Universal Acceptance implementation requires a multistakeholder effort. We are grateful to our partners and supporters.<br><br>
 **Organisers**<br>
 <p><html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/access-plus-logo-2.png"
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/access-plus-logo-2.png"
     width=80
   </img>
 </html>
    &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ISOC-UGANDA-Logo-Dark-Blue-RGB.png"
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/ISOC-UGANDA-Logo-Dark-Blue-RGB.png"
     width=220
   </img>
 </html>  
@@ -43,21 +43,21 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
 
 **Partners and Supporters**<br>
  <p><html>
- <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/MoICT-logo_bigger-1.png"
+ <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/MoICT-logo_bigger-1.png"
     width=300
       </img>
   </html>
   &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/NITA-U-logo.png" width=100 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/NITA-U-logo.png" width=100 </img>
 </html>
    &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ICANN_logo.svg.png" width=50 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/ICANN_logo.svg.png" width=50 </img>
 </html>
    &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/Mozilla-logo.png" width=100 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/Mozilla-logo.png" width=100 </img>
 </html>
 
 ## About Us and Contacts
@@ -71,7 +71,7 @@ This repository is maintained by a team of technologists, researchers, tech poli
 * [Esther Patricia Akello](https://www.linkedin.com/in/patricia-akello-0b76935b/?originalSubdomain=ug) is a technologist, who is passionate about application development and finding solutions for socio-economic problems. She is an entrepreneur, expert in managing ICT Projects and start-ups, and one of the founding Partners of AccessPlus an organization focused on promoting STEM careers for girls and extending ICT services to underserved communities. She is an Application Developer at the Bank of Uganda and holds an MSc in Information Systems and BSc in Computer Science.
 * [Mutegeki Cliff Agaba](https://mutegekicliff.com/) is a technology enthusiast and digital entrepreneur. He is the Vice President of the Internet Society Uganda Chapter and formerly the Secretary for Gender and Disabilities, where he also served as the chapter training coordinator for the recently concluded Internet Society Chapter training program. He is also serving as a member of the Universal Acceptance Communications Working Group under the umbrella of ICANN.
 * Rugasira Joseph is a projects manager at Rusanuzi Quarry Consults, Projects Coordinator at Internet Society Uganda Chapter and a young youth Internet Governance enthusiastic in local communities of Uganda.  He is a graduate of the African Presidential Leadership Program at the National Training Academy in Cairo and also an undergraduate student at the University of the People pursuing his degree in business administration. He lives in a community where the Internet is the driving force and believes it should be for everyone. Joseph can be also be contacted via twitter @joseph_rugasira or via email at rugasirajoseph414@gmail.com
-* Innocent Adriko is a Ugandan IT Scientist, with great interest in Internet Policy and Governance, which field he has diversely trained and worked in for the last two years with great focus on Digital Inclusion, Digital Literacy, Digital Rights, Safety and Security Online. He currently volunteers as the Engagement Lead at the Digital Literacy Initiative and is a member of the Internet Society (ISOC) Uganda Chapter, ICT Association of Uganda and the ICANN community. He has been a NextGen participant at ICANN65, Internet Society Youth Ambassador, and has spoken at national, regional and international conferences.  Innocent has written papers that include “Internet as a Human Right; Internet Freedom” and “The Role of Government in ensuring Quality of Service”.
+* [Innocent Adriko](https://www.linkedin.com/in/innocent-adriko-131445161/) is a Ugandan IT Scientist, with great interest in Internet Policy and Governance, which field he has diversely trained and worked in for the last two years with great focus on Digital Inclusion, Digital Literacy, Digital Rights, Safety and Security Online. He currently volunteers as the Engagement Lead at the Digital Literacy Initiative and is a member of the Internet Society (ISOC) Uganda Chapter, ICT Association of Uganda and the ICANN community. He has been a NextGen participant at ICANN65, Internet Society Youth Ambassador, and has spoken at national, regional and international conferences.  Innocent has written papers that include “Internet as a Human Right; Internet Freedom” and “The Role of Government in ensuring Quality of Service”.
 
 
 -------------
