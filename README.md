@@ -1,4 +1,4 @@
-# demistify-universal-acceptance
+# demystify-universal-acceptance
 
 * [Background](#background)
 * [Why Univeral Acceptance](#why-universal-acceptance)
