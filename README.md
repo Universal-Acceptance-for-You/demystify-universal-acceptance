@@ -35,12 +35,14 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
 </html> 
 
 **Partners and Supporters**<br>
- <p><html>
+ <p>  <html>
+   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/Mozilla-logo.png" width=100 </img>
+</html>
+ <html>
    <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/ISOC-UGANDA-Logo-Dark-Blue-RGB.png"
     width=220
   </img>
 </html>  
-  <br><br>
  <html>
  <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/MoICT-logo_bigger-1.png"
     width=300
@@ -55,9 +57,7 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
    <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/ICANN_logo.svg.png" width=50 </img>
 </html>
    &nbsp;&nbsp;&nbsp;
-  <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/resources/images/Mozilla-logo.png" width=100 </img>
-</html>
+
 
 ## About Us and Contacts
 This repository is maintained by a team of technologists, researchers, tech policy experts, activists, UA enthusists, among others, working in organisations including: 
